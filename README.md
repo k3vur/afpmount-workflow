@@ -22,4 +22,4 @@ afpmount data-grave
 It will do an SMB lookup for data-grave and get its IP. It will then further
 mount "afp://<found-ip>", asking you for user name and which directory to mount
 (think Finders "Connect to Server" feature).
-=======
+
